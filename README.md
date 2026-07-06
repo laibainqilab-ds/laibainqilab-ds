@@ -48,7 +48,8 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
 <h3>Projects</h3>
 
 - Video Management System
-- Machine Learning Projects
+- Blood Bank Management System
+- DNA Analysis
 - Database Management Projects
 - Personal GitHub Portfolio (In Progress)
 
@@ -61,6 +62,4 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
   </a>
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">LinkedIn</a>
-</p>
+
