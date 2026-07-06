@@ -14,6 +14,3 @@ Passionate about Machine Learning, Data Science, Artificial Intelligence, and So
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,linux,vscode,tensorflow,numpy,pandas" />
 </p>
 
-<p align="center">
-Scikit-learn
-</p>
