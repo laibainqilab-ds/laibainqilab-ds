@@ -11,3 +11,22 @@ Passionate about Machine Learning, Data Science, Software Development, and Artif
 <p align="center">
 Currently building projects in machine learning, databases, and software development while continuously expanding my technical skills.
 </p>
+
+## Technical Skills
+
+**Languages**
+- C
+- C++
+- Python
+- SQL
+
+**Core Areas**
+- Machine Learning
+- Data Science
+- Database Management
+- Object-Oriented Programming
+
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
