@@ -28,10 +28,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,linux,vscode,tensorflow,numpy,pandas" />
 </p>
 
-<p align="center">
-<b>Libraries:</b> Scikit-learn
-</p>
-
 ---
 
 <h3>Current Focus</h3>
