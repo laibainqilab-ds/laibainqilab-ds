@@ -1,14 +1,13 @@
-Hi, I'm Laiba 
+<h1 align="center">Hi, I'm Laiba</h1>
 
-I'm an Information Technology student with a specialization in Data Science, passionate about software development, machine learning, artificial intelligence, and web technologies. I enjoy building practical solutions while continuously expanding my technical skills.
+<p align="center">
+Computer Science Student (Data Science Specialization) at NED University of Engineering & Technology
+</p>
 
-Technologies & Skills:
-Python
-C++
-C
-SQL
-Machine Learning
-Data Analysis
-Web Technologies
+<p align="center">
+Passionate about Machine Learning, Data Science, Software Development, and Artificial Intelligence.
+</p>
 
-I'm always eager to learn new technologies, work on real-world projects, and explore opportunities where I can apply my skills while growing as a developer.
+<p align="center">
+Currently building projects in machine learning, databases, and software development while continuously expanding my technical skills.
+</p>
