@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Laiba</h1>
 
-<h3 align="center">
-Computer Science Student (Data Science) at NED University of Engineering & Technology
-</h3>
-
 <p align="center">
-Passionate about Machine Learning, Data Science, Artificial Intelligence, and Software Development.
+Computer Science Student (Data Science Specialization)<br>
+NED University of Engineering & Technology
 </p>
 
-## Tech Stack
+<p align="center">
+I enjoy building machine learning models, developing software applications, and exploring data-driven solutions through AI and analytics.
+</p>
+
+#### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,linux,vscode,tensorflow,numpy,pandas" />
