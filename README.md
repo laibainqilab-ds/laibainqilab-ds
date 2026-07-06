@@ -9,8 +9,7 @@ NED University of Engineering & Technology
 I enjoy building machine learning models, developing software applications, and exploring data-driven solutions through AI and analytics.
 </p>
 
-#### Tech Stack
-
+<h3 align="left">Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,linux,vscode,tensorflow,numpy,pandas" />
 </p>
