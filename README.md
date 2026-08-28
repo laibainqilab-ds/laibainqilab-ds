@@ -10,7 +10,7 @@ Passionate about Machine Learning, Data Science, Artificial Intelligence, and So
 I enjoy building intelligent applications, exploring data-driven solutions, and continuously improving my programming skills through academic and personal projects.
 </p>
 
----
+
 
 <h3>About Me</h3>
 
@@ -20,7 +20,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
 - Currently expanding my knowledge of **Deep Learning**, **Data Science**, and **Full-Stack Development**.
 - Always eager to learn new technologies and work on meaningful projects.
 
----
 
 <h3>Tech Stack</h3>
 
@@ -28,7 +27,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
   <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,git,github,linux,vscode,tensorflow,numpy,pandas" />
 </p>
 
----
 
 <h3>Current Focus</h3>
 
@@ -39,7 +37,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
 - Problem Solving
 - Open Source
 
----
 
 <h3>Projects</h3>
 
@@ -49,7 +46,6 @@ I enjoy building intelligent applications, exploring data-driven solutions, and 
 - Database Management Projects
 - Personal GitHub Portfolio (In Progress)
 
----
 <h3>Connect with Me</h3>
 
 <p align="left">
