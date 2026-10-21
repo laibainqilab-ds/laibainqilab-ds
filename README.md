@@ -18,7 +18,7 @@ My work spans LLM applications, retrieval-augmented generation (RAG), agentic wo
 ## Experience
 
 ### AI Trainee — ByteCorp Technologies
-*July 2026 – October 2026*
+*20 July 2026 – 20 October 2026*
 
 - Explored and benchmarked open-source text-to-speech models, including F5-TTS, Matcha-TTS, and OmniVoice.
 - Worked with zero-shot voice cloning using short reference audio samples.
